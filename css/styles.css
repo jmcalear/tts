@@ -1,0 +1,10 @@
+#header a{
+  color: green;
+}
+#content {
+  display: block;
+  align: center;
+}
+#footer a{
+  color: blue;
+}
